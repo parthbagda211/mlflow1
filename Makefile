@@ -1,3 +1,7 @@
+venv:
+   @echo "Create python environment.."
+   python -m venv my-env
+
 activate:
 	@echo "Activating virtual environment..."
 	env\Scripts\activate
