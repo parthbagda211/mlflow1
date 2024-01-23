@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dhruv/Downloads/MLOps1/mlflow1/mlruns/0/d2b729cc1f8b4beabaffd9ad03e8bee8/artifacts
+end_time: 1706035176778
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d2b729cc1f8b4beabaffd9ad03e8bee8
+run_name: unruly-shrew-117
+run_uuid: d2b729cc1f8b4beabaffd9ad03e8bee8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706035145398
+status: 3
+tags: []
+user_id: dhruv
