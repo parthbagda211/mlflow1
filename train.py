@@ -30,8 +30,8 @@ logger = logging.getLogger(__name__)
 
 df= fetch_california_housing(as_frame=True)["frame"]
 
-epochs = int(sys.argv[1]) if len(sys.argv) > 1 else 150
-lr = int(sys.argv[2]) if len(sys.argv) > 2 else 0.001
+epochs = float(sys.argv[1]) if len(sys.argv) > 1 else 150
+lr = float(sys.argv[2]) if len(sys.argv) > 2 else 0.001
 
 if __name__ == "__main__":
     # Set a random seed for reproducible results
