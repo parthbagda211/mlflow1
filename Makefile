@@ -4,7 +4,7 @@ venv:
 
 activate:
 	@echo "Activating virtual environment..."
-	env\Scripts\activate
+	my-env\Scripts\activate
 
 # Target: install
 # Description: Install dependencies from requirements.txt
@@ -24,4 +24,3 @@ stop:
 	@echo "Deactivating virtual environment..."
 	deactivate
 
-.PHONY: activate install run stop
