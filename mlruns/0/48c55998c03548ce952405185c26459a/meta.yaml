@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dhruv/Downloads/MLOps1/mlflow1/mlruns/0/48c55998c03548ce952405185c26459a/artifacts
+end_time: 1706033982517
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48c55998c03548ce952405185c26459a
+run_name: puzzled-bird-696
+run_uuid: 48c55998c03548ce952405185c26459a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706033955825
+status: 3
+tags: []
+user_id: dhruv

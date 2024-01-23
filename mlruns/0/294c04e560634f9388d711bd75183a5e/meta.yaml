@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dhruv/Downloads/MLOps1/mlflow1/mlruns/0/294c04e560634f9388d711bd75183a5e/artifacts
+end_time: 1706034076737
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 294c04e560634f9388d711bd75183a5e
+run_name: clumsy-pig-865
+run_uuid: 294c04e560634f9388d711bd75183a5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706034053281
+status: 3
+tags: []
+user_id: dhruv
