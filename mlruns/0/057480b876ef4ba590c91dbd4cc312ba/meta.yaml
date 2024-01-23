@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dhruv/Downloads/MLOps1/mlruns/0/057480b876ef4ba590c91dbd4cc312ba/artifacts
+end_time: 1706006956479
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 057480b876ef4ba590c91dbd4cc312ba
+run_name: ambitious-foal-704
+run_uuid: 057480b876ef4ba590c91dbd4cc312ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706006926016
+status: 3
+tags: []
+user_id: dhruv
